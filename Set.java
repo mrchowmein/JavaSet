@@ -1,8 +1,8 @@
 /*
-Jason Chan 
-Pac 1
-Lab 11: Set
+Copyright 2017
+github.com/mrchowmein
 */
+
 import java.util.Arrays;
 
 public class Set<T>{
