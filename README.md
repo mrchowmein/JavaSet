@@ -1,2 +1,2 @@
 # JavaSet
-My implementation of the set data structure for Java
+My implementation of the set data structure for Java using linkedlists. 
